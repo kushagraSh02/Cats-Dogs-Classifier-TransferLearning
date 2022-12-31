@@ -11,6 +11,8 @@ We use pretrained layers of InceptionV3 upto the 'mixed7' layer, because the ori
 
 The dataset was taken from googleapi, named 'cats and dogs filtered'. The dataset contains images of cats and dogs divided into training and validation data.
 
+The model achieves a validation accuracy of 96%+.
+
 Dataset URL: https://storage.googleapis.com/tensorflow-1-public/course2/cats_and_dogs_filtered.zip
 
 Pretrained Inception Model weights file URL: https://github.com/kohpangwei/influence-release/tree/master/inception
